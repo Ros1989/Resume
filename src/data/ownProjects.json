@@ -1,0 +1,50 @@
+[
+  {
+    "id": "id-1",
+    "label": "Mart",
+    "link": "https://ros1989.github.io/module-05/",
+    "tech": "HTML5, CSS3"
+  },
+  {
+    "id": "id-2",
+    "label": "Holiday",
+    "link": "https://ros1989.github.io/module-08/",
+    "tech": "HTML5, CSS3 (responsive layout)"
+  },
+  {
+    "id": "id-3",
+    "label": "Mogo",
+    "link": "https://ros1989.github.io/module-11/build/",
+    "tech": "HTML5, SASS, SCSS"
+  },
+  {
+    "id": "id-4",
+    "label": "Clock",
+    "link": "https://ros1989.github.io/Clock/",
+    "tech": "JavaScript"
+  },
+  {
+    "id": "id-5",
+    "label": "Image Finder",
+    "link": "https://ros1989.github.io/goit-js-hw-13-image-finder/",
+    "tech": "JavaScript"
+  },
+  {
+    "id": "id-6",
+    "label": "Weather",
+    "link": "https://ros1989.github.io/weather/",
+    "tech": "React"
+  },
+  {
+    "id": "id-7",
+    "label": "Movies",
+    "link": "https://ros-1989-movies.netlify.app/",
+    "tech": "React"
+  },
+  {
+    "id": "id-8",
+    "label": "Phonebook",
+    "link": "https://ros1989.github.io/goit-react-hw-08-phonebook/",
+    "tech": "React"
+  }
+]

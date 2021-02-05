@@ -1,0 +1,7 @@
+[
+  { "id": "id-1", "label": "UKRAINIAN - native" },
+  { "id": "id-2", "label": "RUSSIAN - native" },
+  { "id": "id-3", "label": "ENGLISH - intermediate" },
+  { "id": "id-4", "label": "POLISH - intermediate" },
+  { "id": "id-4", "label": "HUNGARIAN - elementary" }
+]

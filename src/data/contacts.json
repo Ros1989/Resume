@@ -1,0 +1,51 @@
+[
+  {
+    "id": "id-1",
+    "label": "Phone",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/3178/3178496.svg",
+    "link": "tel:380930312455",
+    "text": "+38 093 031 24 55"
+  },
+  {
+    "id": "id-2",
+    "label": "E-mail",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/1932/1932718.svg",
+    "link": "mailto:zhabinskiirostislav@gmail.com",
+    "text": "zhabinskiirostislav@gmail.com"
+  },
+  {
+    "id": "id-3",
+    "label": "Git Hub",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111290.svg",
+    "link": "https://github.com/Ros1989",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-4",
+    "label": "LinkedIn",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg",
+    "link": "https://www.linkedin.com/in/rostyslav-zhabinskyi-a1b40b1a6/",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-5",
+    "label": "Telegram",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111545.svg",
+    "link": "https://t.me/Rostyslav1989",
+    "text": "Telegram"
+  },
+  {
+    "id": "id-6",
+    "label": "Instagram",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg",
+    "link": "https://www.instagram.com/rostyslavzhavinskyi/",
+    "text": "Instagram"
+  },
+  {
+    "id": "id-7",
+    "label": "Facebook",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111274.svg",
+    "link": "https://www.facebook.com/profile.php?id=100012602689152",
+    "text": "Facebook"
+  }
+]
