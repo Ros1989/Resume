@@ -10,5 +10,11 @@
     "label": "Filmoteka",
     "link": "https://ros1989.github.io/Filmoteca/",
     "tech": "JavaScript"
+  },
+  {
+    "id": "id-3",
+    "label": "Pro [Test_]",
+    "link": "https://final-group-project-react-front.netlify.app/auth",
+    "tech": "React.js + Node.js"
   }
 ]

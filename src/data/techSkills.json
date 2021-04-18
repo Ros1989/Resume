@@ -4,8 +4,9 @@
   { "id": "id-3", "label": "GIT" },
   { "id": "id-4", "label": "JAVASCRIPT" },
   { "id": "id-5", "label": "REACT.JS" },
-  { "id": "id-6", "label": "PHOTOSHOP" },
-  { "id": "id-7", "label": "WEBPACK" },
-  { "id": "id-8", "label": "GULP" },
-  { "id": "id-9", "label": "RESPONSIVE WEB DESING" }
+  { "id": "id-6", "label": "NODE.JS" },
+  { "id": "id-7", "label": "PHOTOSHOP" },
+  { "id": "id-8", "label": "WEBPACK" },
+  { "id": "id-9", "label": "GULP" },
+  { "id": "id-10", "label": "RESPONSIVE WEB DESING" }
 ]
