@@ -11,10 +11,10 @@ function AboutMe({ commandProjects, ownProjects, experience }) {
         <h2 className={s.profession}>FRONT-END DEVELOPER</h2>
         <h1 className={s.name}>Rostyslav Zhabinskyi</h1>
         <p className={s.description}>
-          Hey 👋. I'm looking for interesting job as Frontend Web Developer in a
-          good, friendly and exciting team to improve my skills and use them for
-          interesting tasks. I am a fast learner, responsible, ready for
-          different tasks.
+          Hey 👋. I'm looking for a job for the position of Frontend Developer
+          in a good, friendly and exciting team to improve my skills and use
+          them for interesting tasks. I am a fast learner, responsible, ready
+          for different tasks.
         </p>
       </div>
       <div className={s.section}>
