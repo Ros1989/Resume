@@ -1,7 +1,7 @@
 [
-  { "id": "id-1", "label": "SCRUM" },
-  { "id": "id-2", "label": "TEAMWORK" },
-  { "id": "id-3", "label": "RESPONSIBILITY" },
-  { "id": "id-4", "label": "FLEXIBILITY" },
-  { "id": "id-5", "label": "PERSEVERANCE" }
+  { "id": "id-1", "label": "Creativity" },
+  { "id": "id-2", "label": "Teamwork" },
+  { "id": "id-3", "label": "Responsibility" },
+  { "id": "id-4", "label": "Flexibility" },
+  { "id": "id-5", "label": "Perseverance" }
 ]
